@@ -1,0 +1,11 @@
+# Bỏ qua thư mục cấu hình IDE
+.idea/
+*.iml
+
+# Build output
+out/
+build/
+
+
+
+
